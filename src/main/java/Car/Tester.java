@@ -25,5 +25,11 @@ public class Tester {
         long ss = carp.enter.getTime();
         System.out.println("pay : " + (int)((s-ss)/(1000*60*30))*fee) ;
     }
+    Date date = new Date();
+    Calendar calendar = Calendar.getInstance();
+        System.out.println(date.getTime());
+        System.out.println(calendar.getTime());
     }
+
+
 }
