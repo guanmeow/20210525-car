@@ -11,7 +11,7 @@ public class CarDemo {
     public static void main(String[] args) {
         JFrame frame = new JFrame();
         frame.setContentPane(new CarDemo().mianPanel);
-        frame.setSize(300,500);
+        frame.setSize(300,400);
         frame.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
         frame.setVisible(true);
     }
