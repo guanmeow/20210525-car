@@ -6,11 +6,11 @@ test/Box1.java
  test.Box1
 Car/Tester.java
  Car.Tester
-Car/CarDemo.java
- Car.CarDemo
+net/URLtest.java
+ net.URLtest
 net/Tester.java
  net.Tester
 test/Box.java
  test.Box
-net/URLtest.java
- net.URLtest
+Car/CarDemo.java
+ Car.CarDemo
